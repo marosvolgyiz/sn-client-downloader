@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sn-client-downloader", "sn-client-downloader\sn-client-downloader.csproj", "{F319CC26-75F4-4E9E-AEE9-A6AE86621F68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F319CC26-75F4-4E9E-AEE9-A6AE86621F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F319CC26-75F4-4E9E-AEE9-A6AE86621F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F319CC26-75F4-4E9E-AEE9-A6AE86621F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F319CC26-75F4-4E9E-AEE9-A6AE86621F68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A675C49-94CD-41E1-B056-DA8594F2AE9A}
+	EndGlobalSection
+EndGlobal
